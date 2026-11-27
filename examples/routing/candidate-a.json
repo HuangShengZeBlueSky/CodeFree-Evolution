@@ -1,0 +1,10 @@
+{
+  "billing": [
+    "refund",
+    "my"
+  ],
+  "account": [
+    "password",
+    "unlock"
+  ]
+}

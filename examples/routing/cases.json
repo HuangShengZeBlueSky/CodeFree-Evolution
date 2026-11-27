@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "text": "refund my order",
+    "expected": "billing"
+  },
+  {
+    "id": "T2",
+    "text": "download an invoice",
+    "expected": "billing"
+  },
+  {
+    "id": "T3",
+    "text": "reset my password",
+    "expected": "account"
+  },
+  {
+    "id": "T4",
+    "text": "unlock my account",
+    "expected": "account"
+  },
+  {
+    "id": "T5",
+    "text": "change my delivery date",
+    "expected": "general"
+  },
+  {
+    "id": "T6",
+    "text": "what are your hours",
+    "expected": "general"
+  }
+]
