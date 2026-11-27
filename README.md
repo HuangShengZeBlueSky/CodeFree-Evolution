@@ -14,7 +14,7 @@ The monitor sends the same parent and scope back for another attempt, or selects
 
 ## Try the dashboard
 
-Download [the standalone dashboard](dashboard/index.html) and open it in a browser. Select a candidate to inspect its parent and configuration diff. Select a case to compare its inputs, outputs and matched rules across versions. The [empty template](dashboard/template.html) and [data contract](dashboard/data-contract.md) support other benchmarks.
+[Open the live dashboard · 在线交互看板](https://huangshengzebluesky.github.io/CodeFree-Evolution/dashboard/) or download [the standalone dashboard](dashboard/index.html) and open it in a browser. Select a candidate to inspect its parent and configuration diff. Select a case to compare its inputs, outputs and matched rules across versions. The [empty template](dashboard/template.html) and [data contract](dashboard/data-contract.md) support other benchmarks.
 
 With Python 3, replay the six synthetic routing cases from the repository root:
 
